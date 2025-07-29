@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "export": "next export",
-  "deploy": "next build && next export"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "optimize-images": "node scripts/optimize-images.js",
+    "deploy": "npm run optimize-images && next build && next export"
+  },
   "dependencies": {
     "framer-motion": "10.16.4",
     "lucide-react": "0.316.0",
