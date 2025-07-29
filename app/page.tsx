@@ -161,15 +161,16 @@ ${lines.join("\n")}
               transition={{ duration: 0.4 }}
               className="bg-white border border-[#e8dfd3] rounded-xl p-4 text-center shadow"
             >
-              <Image
-                src={item.image} // Например: "/images/rolls/philadelphia.webp"
-                alt={item.title}
-                width={400}
-                height={160}
-                className="rounded-lg mb-4 w-full h-40 object-cover"
-                loading="lazy"
-                sizes="(max-width: 768px) 50vw, 33vw"
-              />
+            <Image
+              src={item.image} 
+              alt={item.title}
+              width={400}
+              height={160}
+              className="rounded-lg mb-4 w-full h-40 object-cover"
+              loading="lazy"
+              sizes="(max-width: 768px) 50vw, 33vw"
+              unoptimized 
+            />
               <h3 className="text-lg font-bold text-[#8B4513]">{item.title}</h3>
               <p className="text-sm text-gray-600 mb-1">{item.description}</p>
               <p className="text-md font-semibold text-[#8B4513]">
