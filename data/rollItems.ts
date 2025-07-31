@@ -305,6 +305,15 @@ export const rollItems = [
     image: "/images/set-cariby.webp",
   },
   {
+      id: 306,
+      category: "Сеты",
+      title: "СЕТ Боллы",
+      description:
+        "Болл с крабом + Болл с креветкой + Болл с лососем\n3 шт",
+      price: 599,
+      image: "/images/set-boll.webp",
+  },
+  {
     id: 401,
     category: "Классические роллы",
     title: "Лосось классика",
