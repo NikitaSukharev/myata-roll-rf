@@ -55,7 +55,7 @@ export const rollItems = [
     image: "/images/california-crab.webp",
   },
   {
-    id: 701,
+    id: 6,
     category: "Холодные роллы",
     title: "Калифорния с креветкой",
     description: "рис, нори, креветка, огурец, майонез, икра масаго\n205 г",
@@ -63,7 +63,7 @@ export const rollItems = [
     image: "/images/holodnie-krevetka.webp",
   },
   {
-    id: 702,
+    id: 7,
     category: "Холодные роллы",
     title: "Калифорния с лососем",
     description: "рис, нори, лосось, огурец, майонез, икра масаго\n205 г",
@@ -71,7 +71,7 @@ export const rollItems = [
     image: "/images/holodnie-losos.webp",
   },
   {
-    id: 6,
+    id: 8,
     category: "Холодные роллы",
     title: "Чикен Чеддер",
     description:
@@ -80,7 +80,7 @@ export const rollItems = [
     image: "/images/chicken-cheddar.webp",
   },
   {
-    id: 7,
+    id: 9,
     category: "Холодные роллы",
     title: "Аляска",
     description: "рис, нори, сливочный сыр, креветка, огурец, икра масаго\n220 г",
@@ -88,7 +88,7 @@ export const rollItems = [
     image: "/images/alaska.webp",
   },
   {
-    id: 8,
+    id: 10,
     category: "Холодные роллы",
     title: "Бонито",
     description: "рис, нори, сливочный сыр, лосось, огурец, стружка тунца\n210 г",
@@ -96,7 +96,7 @@ export const rollItems = [
     image: "/images/bonito.webp",
   },
   {
-    id: 9,
+    id: 11,
     category: "Холодные роллы",
     title: "Овощной",
     description:
@@ -105,7 +105,7 @@ export const rollItems = [
     image: "/images/vegetable.webp",
   },
   {
-    id: 10,
+    id: 12,
     category: "Холодные роллы",
     title: "ФитСтарс",
     description:
@@ -114,7 +114,7 @@ export const rollItems = [
     image: "/images/fitstars.webp",
   },
   {
-    id: 703,
+    id: 13,
     category: "Холодные роллы",
     title: "Угорь в кунжуте",
     description: "рис, нори, сливочный сыр, угорь, омлет, огурец, кунжут\n210 г",
@@ -122,7 +122,7 @@ export const rollItems = [
     image: "/images/holodnie-ugor.webp",
   },
   {
-    id: 704,
+    id: 14,
     category: "Холодные роллы",
     title: "Чикен Классик",
     description: "рис, нори, спайс соус, курица, лист салата, помидор\n185 г",
@@ -130,7 +130,7 @@ export const rollItems = [
     image: "/images/holodnie-chicken.webp",
   },
   {
-    id: 11,
+    id: 15,
     category: "Холодные роллы",
     title: "Ролл Волна",
     description: "рис, нори, сливочный сыр, креветка, лист салата, икра масаго\n210 г",
@@ -541,7 +541,7 @@ export const rollItems = [
     image: "/images/orange-05.webp",
   },
   {
-    id: 209,
+    id: 29,
     category: "Напитки",
     title: "Добрый Апельсин",
     description: "1Л ПЭТ",
@@ -549,7 +549,7 @@ export const rollItems = [
     image: "/images/orange-1.webp",
   },
   {
-    id: 210,
+    id: 30,
     category: "Напитки",
     title: "Добрый Манго-Маракуйя",
     description: "0,33 ж/б",
@@ -557,7 +557,7 @@ export const rollItems = [
     image: "/images/mango.webp"
   },
   {
-    id: 211,
+    id: 31,
     category: "Напитки",
     title: "Добрый Апельсин-Мандарин",
     description: "0,3 ПЭТ",
@@ -565,7 +565,7 @@ export const rollItems = [
     image: "/images/orange-dobri.webp"
   },
   {
-    id: 212,
+    id: 32,
     category: "Напитки",
     title: "Добрый Яблоко",
     description: "0,3 ПЭТ",
@@ -573,7 +573,7 @@ export const rollItems = [
     image: "/images/apple.webp"
   },
   {
-    id: 213,
+    id: 33,
     category: "Напитки",
     title: "Моя семья яблочный микс",
     description: "0,2",
@@ -581,7 +581,7 @@ export const rollItems = [
     image: "/images/family-1.webp"
   },
   {
-    id: 214,
+    id: 34,
     category: "Напитки",
     title: "Моя семья ягодный микс",
     description: "0,2",
