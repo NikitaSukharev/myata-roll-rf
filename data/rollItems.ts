@@ -477,7 +477,7 @@ export const rollItems = [
     image: "/images/boll-2.webp",
   },
   {
-    id: 201,
+    id: 21,
     category: "Напитки",
     title: "Добрый КОЛА",
     description: "0,33 ж/б",
@@ -485,7 +485,7 @@ export const rollItems = [
     image: "/images/cola-033.webp",
   },
   {
-    id: 202,
+    id: 22,
     category: "Напитки",
     title: "Добрый КОЛА",
     description: "0,3 ПЭТ",
@@ -493,7 +493,7 @@ export const rollItems = [
     image: "/images/cola-033pet.webp",
   },
   {
-    id: 203,
+    id: 23,
     category: "Напитки",
     title: "Добрый КОЛА",
     description: "0,5 ПЭТ",
@@ -501,7 +501,7 @@ export const rollItems = [
     image: "/images/cola-05.webp"
   },
   {
-    id: 204,
+    id: 24,
     category: "Напитки",
     title: "Добрый КОЛА",
     description: "1Л ПЭТ",
@@ -509,7 +509,7 @@ export const rollItems = [
     image: "/images/cola-1.webp",
   },
   {
-    id: 205,
+    id: 25,
     category: "Напитки",
     title: "Добрый КОЛА Без Сахара",
     description: "0,3 ПЭТ",
@@ -517,7 +517,7 @@ export const rollItems = [
     image: "/images/cola-sugar1.webp",
   },
   {
-    id: 206,
+    id: 26,
     category: "Напитки",
     title: "Добрый КОЛА Без Сахара",
     description: "0,5 ПЭТ",
@@ -525,7 +525,7 @@ export const rollItems = [
     image: "/images/cola-sugar2.webp",
   },
   {
-    id: 207,
+    id: 27,
     category: "Напитки",
     title: "Добрый Лимон-Лайм",
     description: "033 ж/б",
@@ -533,7 +533,7 @@ export const rollItems = [
     image: "/images/limon-lime.webp",
   },
   {
-    id: 208,
+    id: 28,
     category: "Напитки",
     title: "Добрый Апельсин",
     description: "0,5 ПЭТ",
